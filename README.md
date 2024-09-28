@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1>💫 Hello! I'm Ismail Sifdine</h1>
-
+<h3> I'm a computer engineering student with a passion for building projects and acquiring new skills. </h3>
 </div>
   
-### I'm a computer engineering student with a passion for building projects and acquiring new skills. 
+
 
 # 💻 Tech Stack:
 <div align="center">
@@ -15,17 +15,28 @@
 
 
 # 📊 GitHub Stats:
+<div align="center">
+
 ![Sif247's Stats](https://github-readme-stats.vercel.app/api?username=Sif247&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 ![Sif247's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sif247&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 
+</div>
+
 
 ## 🌐 Socials:
+<div align="center">
 
-- <a href="https://linkedin.com/in/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sif247" height="30" width="40" /></a>
-- <a href="https://instagram.com/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sif247" height="30" width="40" /></a>
-- <a href="https://www.youtube.com/c/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sif247" height="30" width="40" /></a>
-- <a href="https://www.leetcode.com/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sif247" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sif247" height="30" width="40" /></a>
+<a href="https://instagram.com/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sif247" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sif247" height="30" width="40" /></a>
+
+
+
+</div>
+
+
 
 
 
