@@ -22,5 +22,5 @@ Hello! I'm a computer engineering student with a passion for building projects a
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sif247/Sif247/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Sif247/Sif247/output/snake.svg" alt="Snake animation" />
 
