@@ -1,5 +1,5 @@
-# 💫 About Me:
-### Hello! I'm a computer engineering student with a passion for building projects and acquiring new skills. 
+# 💫 Hello! I'm Ismail Sifdine
+### I'm a computer engineering student with a passion for building projects and acquiring new skills. 
 
 # 💻 Tech Stack:
 
@@ -9,21 +9,17 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sif247&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sif247&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sif247&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sif247&icon=0&color=0)](https://visitcount.itsvg.in)
+![Sif247's Stats](https://github-readme-stats.vercel.app/api?username=Sif247&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+![Sif247's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sif247&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 
 
 ## 🌐 Socials:
 
-<a href="https://linkedin.com/in/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sif247" height="30" width="40" /></a>
-<a href="https://instagram.com/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sif247" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sif247" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sif247" height="30" width="40" /></a>
+- <a href="https://linkedin.com/in/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sif247" height="30" width="40" /></a>
+- <a href="https://instagram.com/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sif247" height="30" width="40" /></a>
+- <a href="https://www.youtube.com/c/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sif247" height="30" width="40" /></a>
+- <a href="https://www.leetcode.com/sif247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sif247" height="30" width="40" /></a>
 
 
 
