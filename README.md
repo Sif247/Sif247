@@ -1,5 +1,7 @@
 <div align="center">
-# 💫 Hello! I'm Ismail Sifdine
+
+<h1>💫 Hello! I'm Ismail Sifdine</h1>
+
 </div>
   
 ### I'm a computer engineering student with a passion for building projects and acquiring new skills. 
