@@ -137,9 +137,7 @@
 <a href="https://linkedin.com/in/sif247" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-<a href="https://instagram.com/sif247" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sif247&layout=compact&theme=radical" />
 
 </div>
 
