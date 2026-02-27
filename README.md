@@ -124,8 +124,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.zcy.dev/api?username=Sif247&show_icons=true&theme=github_dark" />
-<img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Sif247&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Sif247&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sif247&layout=compact&theme=dark" />
 
 </div>
 ---
@@ -137,10 +137,11 @@
 <a href="https://linkedin.com/in/sif247" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sif247&layout=compact&theme=radical" />
+<a href="https://instagram.com/sif247" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
 
 </div>
-
 ---
 
 <div align="center">
