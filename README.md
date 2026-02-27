@@ -124,9 +124,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sif247&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sif247&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats.zcy.dev/api?username=Sif247&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Sif247&layout=compact&theme=github_dark" />
 
 </div>
 ---
