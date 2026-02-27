@@ -124,11 +124,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sif247&theme=prussian&show_icons=true&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sif247&theme=prussian&show_icons=true&hide_border=false&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sif247&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sif247&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
 
 </div>
-
 ---
 
 # 🌍 Connect With Me
@@ -148,6 +148,6 @@
 
 <div align="center">
 
-💡 *Engineering scalable systems, one commit at a time.*
+💡 *One commit at a time.*
 
 </div>
