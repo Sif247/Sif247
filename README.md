@@ -18,7 +18,7 @@
 # 💻 Tech Stack
 
 ## 🔹 Programming Languages
-<div align="center">
+<div align="">
 
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
